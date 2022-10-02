@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/developer-loop/GitHub/distribution-iOS/build",
+  "command": "/usr/bin/clang++   -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/spyder-core.dir/spyder-core.cpp.o -c /Users/developer-loop/GitHub/distribution-iOS/spyder-core.cpp",
+  "file": "/Users/developer-loop/GitHub/distribution-iOS/spyder-core.cpp"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspyder-core.a "CMakeFiles/spyder-core.dir/spyder-core.cpp.o"
+/usr/bin/ranlib libspyder-core.a
